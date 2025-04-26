@@ -25,5 +25,5 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ![Screenshot 2025-04-26 202408](https://github.com/user-attachments/assets/37904838-56b5-46dc-b52c-5dae72dc59ac)
 
-# <I> OUTPUT </I>
+<I> OUTPUT </I>
 ![Screenshot 2025-04-26 202554](https://github.com/user-attachments/assets/ce89fa63-f332-4395-b69e-99a5d76298bb)
