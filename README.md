@@ -1,4 +1,4 @@
-# SQL-PORTFOLIO-PROJECT
+
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
