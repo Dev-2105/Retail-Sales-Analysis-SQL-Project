@@ -25,7 +25,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ![Screenshot 2025-04-26 202408](https://github.com/user-attachments/assets/37904838-56b5-46dc-b52c-5dae72dc59ac)
 
-<I> OUTPUT </I>
+<I> OUTPUT : </I>
 ![Screenshot 2025-04-26 202554](https://github.com/user-attachments/assets/ce89fa63-f332-4395-b69e-99a5d76298bb)
 
 ### 2. Data Exploration & Cleaning
@@ -37,7 +37,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ![Screenshot 2025-04-26 202545](https://github.com/user-attachments/assets/ce7fbf67-30df-49fc-842c-a34a0da363e2)
  
-  <I> OUTPUTs </I>
+  <I> OUTPUTs : </I>
 
   
   ![Screenshot 2025-04-26 203046](https://github.com/user-attachments/assets/521c2a3b-752e-4559-a8c3-3addf2b2259b)
@@ -46,3 +46,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 
 ![Screenshot 2025-04-26 203126](https://github.com/user-attachments/assets/bf66cdce-63a4-4b20-9575-2eae60387c2d)
+
+  <I> NULL VALUE CHECK :  </I>
+![Screenshot 2025-04-26 202545](https://github.com/user-attachments/assets/e7a309c9-e3aa-4359-b46e-b99da77f9885)
+
