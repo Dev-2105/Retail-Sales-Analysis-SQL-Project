@@ -27,3 +27,15 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 <I> OUTPUT </I>
 ![Screenshot 2025-04-26 202554](https://github.com/user-attachments/assets/ce89fa63-f332-4395-b69e-99a5d76298bb)
+
+### 2. Data Exploration & Cleaning
+
+- **Record Count**: Determine the total number of records in the dataset.
+- **Customer Count**: Find out how many unique customers are in the dataset.
+- **Category Count**: Identify all unique product categories in the dataset.
+- **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
+
+![Screenshot 2025-04-26 202545](https://github.com/user-attachments/assets/ce7fbf67-30df-49fc-842c-a34a0da363e2)
+ 
+  <I> OUTPUTs </I>
+![Screenshot 2025-04-26 203126](https://github.com/user-attachments/assets/bf66cdce-63a4-4b20-9575-2eae60387c2d)
