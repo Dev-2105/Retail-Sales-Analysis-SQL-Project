@@ -38,4 +38,11 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ![Screenshot 2025-04-26 202545](https://github.com/user-attachments/assets/ce7fbf67-30df-49fc-842c-a34a0da363e2)
  
   <I> OUTPUTs </I>
+
+  
+  ![Screenshot 2025-04-26 203046](https://github.com/user-attachments/assets/521c2a3b-752e-4559-a8c3-3addf2b2259b)
+
+  ![Screenshot 2025-04-26 203114](https://github.com/user-attachments/assets/228b19c4-a2b9-42c2-b4e3-f5af0d8df3ae)
+
+
 ![Screenshot 2025-04-26 203126](https://github.com/user-attachments/assets/bf66cdce-63a4-4b20-9575-2eae60387c2d)
