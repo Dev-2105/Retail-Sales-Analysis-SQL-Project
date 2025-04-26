@@ -50,3 +50,10 @@ This project is designed to demonstrate SQL skills and techniques typically used
   <I> NULL VALUE CHECK :  </I>
 ![Screenshot 2025-04-26 202545](https://github.com/user-attachments/assets/e7a309c9-e3aa-4359-b46e-b99da77f9885)
 
+### 3. Data Analysis & Findings
+
+The following SQL queries were developed to answer specific business questions:
+
+1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
+
+   
